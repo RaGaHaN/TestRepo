@@ -15,6 +15,8 @@ print(y)
 print(f"I said: {x}")
 print(f"I also said: '{y}'")
 
+print("This is just to check github")
+
 hilarious = True
 joke_evaluation = "Isn't that joke so funny?! {}"
 

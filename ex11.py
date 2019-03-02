@@ -9,3 +9,4 @@ weight = input()
 
 print(f"Hai {name}.")
 print(f"So, you're {age} old, {height} tall and {weight} heavy.")
+print()

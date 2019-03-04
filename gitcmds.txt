@@ -1,0 +1,29 @@
+echo "# TestRepo" >> README.md
+
+git init
+
+git add README.md
+
+git remote add origin http://github.com/RaGaHaN/TestRepo.git
+
+git add .
+
+git status
+
+git rm --cached ex5Rag.py
+
+git config --global user.email "n.raghavendra2015@gmail.com"
+git config --global user.name "Rag"
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git commit
+
+git remote
+
+git push -u origin master
+
+git commit -m "Just a change"
+
+
